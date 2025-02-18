@@ -12,24 +12,24 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "✦𝘽𝙤𝙩✦",
-    "PREFIX": "/",
+    "BOTNAME": "✦𝘽𝙤𝙩 𝙅𝙖𝙣𝙪✦",
+    "PREFIX": ".",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "100037743553265",
+        "100080862788542",
         ""
     ],
     "GOD": [
-        "100037743553265",
+        "100080862788542",
         ""
     ],
     "ADMINBOT": [
-        "100037743553265",
+        "100080862788542",
         ""
     ],
-    "OWNER": "𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙",
+    "OWNER": "𝗛𝗔𝗡𝗭𝗔𝗟𝗔",
     "AGE": "21",
     "GENDER": "𝗠𝗮𝗟𝗲",
     "FACEBOOK": "https://www.facebook.com/Priyanshu.Rajput.Oficial",
@@ -41,7 +41,7 @@
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=100037743553265 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Priyanshrajput☜",
+    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝗛𝗮𝗻𝘇𝗮𝗹𝗮.𝗸𝗶𝗻𝗴☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℍ𝔸ℕℤ𝔸𝕃𝔸〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=100080862788542 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Priyanshrajput☜",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
